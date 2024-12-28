@@ -12,6 +12,9 @@ My hobbies: ACGN (I'm extremely obssessed with that), Go(A kind of chess)
 ### Some plans
 - let me see...
 
+### Blog
+- [Fengling's Blog](https://www.emptydust.com/)
+
 ### Contact me
 - Email: yuxiubai2024@foxmail.com
 <!--
