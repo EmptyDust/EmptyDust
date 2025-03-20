@@ -19,7 +19,7 @@ My hobbies: ACGN (I'm extremely obssessed with that), Go(A kind of chess)
 - Email: yuxiubai2024@foxmail.com
 
 ### github stats
-<img align="" height="180px" src="https://github-readme-stats.vercel.app/api?username=emptydust&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en"/><img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emptydust&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en"/>
+<img align="" height="160px" src="https://github-readme-stats.vercel.app/api?username=emptydust&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en"/><img align="" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emptydust&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en"/>
 
 ### wakaTime
 <!--START_SECTION:waka-->
