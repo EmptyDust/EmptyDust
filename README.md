@@ -18,6 +18,9 @@ My hobbies: ACGN (I'm extremely obssessed with that), Go(A kind of chess)
 ### Contact me
 - Email: yuxiubai2024@foxmail.com
 
+### github stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emptydust)](https://github.com/anuraghazra/github-readme-stats)
+
 ### wakaTime
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
