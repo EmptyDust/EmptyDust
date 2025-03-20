@@ -1,4 +1,6 @@
 ![923982eee0d44ce18f984c047b083b1f.jpg](https://bu.dusays.com/2025/03/21/67dc3ca22d617.jpg)
+<details>
+<summary>Self introduction</summary>
 
 ## Empty_Dust's self introduction 👋
 - Written in somehow mixture of Chinese and English
@@ -20,6 +22,11 @@ My hobbies: ACGN (I'm extremely obssessed with that), Go(A kind of chess)
 ### Contact me
 - Email: yuxiubai2024@foxmail.com
 
+</details>
+
+<details>
+<summary>Stats</summary>
+ 
 ### github stats
 <img align="" height="160px" src="https://github-readme-stats.vercel.app/api?username=emptydust&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en"/><img align="" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emptydust&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en"/>
 
@@ -99,4 +106,6 @@ Stylus                   1 repo              █░░░░░░░░░░�
 
  Last Updated on 20/03/2025 15:38:24 UTC
 <!--END_SECTION:waka-->
+
+</details>
 
