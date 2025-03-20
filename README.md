@@ -1,3 +1,5 @@
+![923982eee0d44ce18f984c047b083b1f.jpg](https://bu.dusays.com/2025/03/21/67dc3ca22d617.jpg)
+
 ## Empty_Dust's self introduction 👋
 - Written in somehow mixture of Chinese and English
 ### Abstract
