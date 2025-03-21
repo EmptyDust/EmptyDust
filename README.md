@@ -3,24 +3,29 @@
 <summary>Self introduction</summary>
 
 ## Empty_Dust's self introduction 👋
-- Written in somehow mixture of Chinese and English
 ### Abstract
 Hi! I'm Empty_Dust, a student in Shanghai, China.\
-My majar: i dont know, maybe a dreamer.\
-My tech stack: CPP (OI,CP), Python (Newbie).\
+My majar: Daydreamer.\
+My tech stack: CPP (CP), Python (Newbie).\
 My hobbies: ACGN (I'm extremely obssessed with that), Go(A kind of chess)
 
 ### About my name
-- TBD
+- This is a directly translation from my past Chinese online name;
+- Which means not to think too much;
+- Now you can call me fengling.
 
 ### Some plans
-- let me see...
+- Deep Learning;
+- Multi-Agent;
+- Flutter&Golang APP;
+- A website helper for SUEP students.
 
 ### Blog
 - [Fengling's Blog](https://www.emptydust.com/)
 
 ### Contact me
 - Email: yuxiubai2024@foxmail.com
+- Email: fenglingyexing@gmail.com
 
 </details>
 
@@ -28,7 +33,7 @@ My hobbies: ACGN (I'm extremely obssessed with that), Go(A kind of chess)
 <summary>Stats</summary>
  
 ### github stats
-<img align="" height="160px" src="https://github-readme-stats.vercel.app/api?username=emptydust&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en"/><img align="" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emptydust&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en"/>
+<img align="" height="160px" src="https://github-readme-stats.vercel.app/api?username=emptydust&show_icons=true&count_private=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en"/><img align="" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emptydust&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en"/>
 
 ### wakaTime
 <!--START_SECTION:waka-->
