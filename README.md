@@ -5,7 +5,7 @@
 ## Empty_Dust's self introduction 👋
 ### Abstract
 Hi! I'm Empty_Dust, a student in Shanghai, China.\
-My majar: Daydreamer.\
+My major: Daydreamer.\
 My tech stack: CPP (CP), Python (Newbie).\
 My hobbies: ACGN (I'm extremely obssessed with that), Go(A kind of chess)
 
