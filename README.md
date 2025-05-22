@@ -37,7 +37,9 @@ My hobbies: ACGN (I'm extremely obssessed with that), Go(A kind of chess)
 
 ### wakaTime
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2056%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -45,14 +47,56 @@ My hobbies: ACGN (I'm extremely obssessed with that), Go(A kind of chess)
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 241 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                163 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.97 % 
+🌆 Daytime                258 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.94 % 
+🌃 Evening                244 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.88 % 
+🌙 Night                  15 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.21 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   75 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.03 % 
+Tuesday                  161 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.68 % 
+Wednesday                140 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.59 % 
+Thursday                 85 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.50 % 
+Friday                   68 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.00 % 
+Saturday                 94 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.82 % 
+Sunday                   57 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 3 hrs 23 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.21 % 
+C++                      1 hr 53 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.73 % 
+Python                   9 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.05 % 
+Other                    0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.02 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 26 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+
+🐱‍💻 Projects: 
+EmptyDust.github.io      3 hrs 17 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.46 % 
+Fengling-s-Algorithm-Code2 hrs 3 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.73 % 
+2025SUEP_Competition     5 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.81 % 
+
+💻 Operating System: 
+Windows                  5 hrs 26 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -70,7 +114,7 @@ Stylus                   1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmptyDust/EmptyDust/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2025 18:46:58 UTC
+ Last Updated on 22/05/2025 18:46:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
