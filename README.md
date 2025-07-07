@@ -6,8 +6,8 @@
 ### Abstract
 Hi! I'm Empty_Dust, a student in Shanghai, China.\
 My major: Daydreamer.\
-My tech stack: CPP (CP), Python (Newbie).\
-My hobbies: ACGN (I'm extremely obssessed with that), Go(A kind of chess)
+My tech stack: CPP (CP), Python (Newbie), JAVA, Golang.\
+My hobbies: ACGN, Go(A kind of chess)
 
 ### About my name
 - This is a directly translation from my past Chinese online name;
