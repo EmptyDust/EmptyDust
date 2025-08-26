@@ -47,6 +47,8 @@ My hobbies: ACGN, Go(A kind of chess)
 
 > 📦 3.6 MB Used in GitHub's Storage 
  > 
+> 🏆 399 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 29 Public Repositories 
@@ -115,7 +117,7 @@ Stylus                   1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmptyDust/EmptyDust/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2025 18:47:51 UTC
+ Last Updated on 26/08/2025 18:45:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
