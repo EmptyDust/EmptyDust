@@ -47,8 +47,6 @@ My hobbies: ACGN, Go(A kind of chess)
 
 > 📦 3.6 MB Used in GitHub's Storage 
  > 
-> 🏆 401 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 29 Public Repositories 
@@ -117,7 +115,7 @@ Dockerfile               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmptyDust/EmptyDust/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2025 18:42:35 UTC
+ Last Updated on 10/09/2025 18:45:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
