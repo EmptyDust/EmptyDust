@@ -37,6 +37,8 @@ My hobbies: ACGN, Go(A kind of chess)
 
 ### wakaTime
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2028%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
@@ -45,7 +47,7 @@ My hobbies: ACGN, Go(A kind of chess)
 
 > 📦 3.6 MB Used in GitHub's Storage 
  > 
-> 🏆 421 Contributions in the Year 2025
+> 🏆 424 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,7 +72,7 @@ Dockerfile               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmptyDust/EmptyDust/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 18:41:16 UTC
+ Last Updated on 29/09/2025 18:46:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
